@@ -66,3 +66,8 @@ label{
 .login-right:hover{
     background-color: #eeecec;
 }
+
+.welcome{
+    font-size: 20px;
+    margin-left: 50px;
+}
